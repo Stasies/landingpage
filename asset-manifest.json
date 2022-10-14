@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/landingpage/static/js/main.425a1a20.js",
+    "static/js/787.a7db9f32.chunk.js": "/landingpage/static/js/787.a7db9f32.chunk.js",
+    "static/media/paid_to_artists.svg": "/landingpage/static/media/paid_to_artists.5a06fca00725307f4f85a75212f8fb32.svg",
+    "static/media/sample_all_india.png": "/landingpage/static/media/sample_all_india.36327a329f8af700a7f8.png",
+    "static/media/sample_bombay.png": "/landingpage/static/media/sample_bombay.668a0fa88758dce6ebf1.png",
+    "static/media/sample_4.png": "/landingpage/static/media/sample_4.d886be837a876cee45ca.png",
+    "static/media/sample_female.png": "/landingpage/static/media/sample_female.a4d2352d36315f68b0de.png",
+    "static/media/top_section_image_2.png": "/landingpage/static/media/top_section_image_2.d2c74003d43712888cb7.png",
+    "static/media/top_section_image_1.png": "/landingpage/static/media/top_section_image_1.b28f78cf897c633d0012.png",
+    "static/media/crowdfunding.png": "/landingpage/static/media/crowdfunding.967dd09fd799436b8524.png",
+    "static/media/vinyl.png": "/landingpage/static/media/vinyl.0c0d4ab1511d112ef92f.png",
+    "static/media/press.png": "/landingpage/static/media/press.a166074485a18aa6a651.png",
+    "static/media/watching.png": "/landingpage/static/media/watching.0e8cba2cba40bfe13a15.png",
+    "static/media/our_services.jpg": "/landingpage/static/media/our_services.7c3c8f93e9911ed93699.jpg",
+    "static/media/qrates-logo-footer.svg": "/landingpage/static/media/qrates-logo-footer.498fa5b7541b393e055011b572ac204d.svg",
+    "static/media/cassette.png": "/landingpage/static/media/cassette.5e1c7888205f784178dc.png",
+    "static/media/qrates-logo.svg": "/landingpage/static/media/qrates-logo.6b1bd403d0de9b0a1ba7b982e3349ef3.svg",
+    "index.html": "/landingpage/index.html",
+    "main.425a1a20.js.map": "/landingpage/static/js/main.425a1a20.js.map",
+    "787.a7db9f32.chunk.js.map": "/landingpage/static/js/787.a7db9f32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.425a1a20.js"
+  ]
+}
